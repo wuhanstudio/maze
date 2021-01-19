@@ -1,4 +1,4 @@
-# Maze
+# Maze 2D
 
 > A scalable 2D maze game in browser.
 
